@@ -25,4 +25,4 @@ sudo apt-get -y install snap
 
 # NetBeans Stable
 echo -e "\n${Cyan} * Java NetBeans.. ${Color_Off}"
-sudo snap install netbeans --classic
+sudo snap install intellij-idea-community --classic --edge

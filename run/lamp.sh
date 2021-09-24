@@ -176,11 +176,11 @@ finally () {
 # RUN
 update
 installApache
-installLetsEncryptCertbot
-installPHP
+#installLetsEncryptCertbot
+#installPHP
 installMySQL
 #secureMySQL
-installPHPMyAdmin
+#installPHPMyAdmin
 enableMods
 setPermissions
 restartApache
